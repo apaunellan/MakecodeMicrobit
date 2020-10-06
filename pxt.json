@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "plot xy": "github:apaunellan/makecodemicrobit#3693b1b0a2540f505ffe7a4cd3976162e1accf0a"
     },
     "files": [
         "main.blocks",
